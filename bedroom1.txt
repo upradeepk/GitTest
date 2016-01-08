@@ -1,5 +1,8 @@
 Painted bedroom with magenta
 Paint windows with purple
-Paint bars with dark brown
+Paint bars with dark red
 Paint grills with gray
 Paint ceiling with white
+apply white tiles
+apply window frames
+apply window doors
