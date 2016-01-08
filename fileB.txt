@@ -1,1 +1,4 @@
 This is fileB.
+
+Paint room with color yellow
+Paint windows with brown
