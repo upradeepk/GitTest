@@ -13,4 +13,5 @@ Fit furniture
 changes made in branch1
 Changes made in branch2
 
+Changes made in branch1
 Changes made in branch2
